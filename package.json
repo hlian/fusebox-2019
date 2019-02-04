@@ -1,0 +1,11 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "fuse-box": "^3.6.0",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.1"
+  }
+}
